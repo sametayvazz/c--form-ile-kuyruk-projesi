@@ -1,0 +1,10 @@
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\bin\Debug\kuyrukProje.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\bin\Debug\kuyrukProje.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\bin\Debug\kuyrukProje.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\kuyrukProje\kuyrukProje\obj\Debug\kuyrukProje.pdb
